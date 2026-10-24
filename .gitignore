@@ -1,0 +1,12 @@
+# Static website allowlist. Never copy application files into this repository.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!index.html
+!privacy.html
+!terms.html
+!assets/
+assets/*
+!assets/style.css
+!assets/icon.svg
